@@ -1,2 +1,2 @@
 # ass
-a project to Adjust timeline of ass subtitles 
+a project to adjust timeline of ass subtitles 
